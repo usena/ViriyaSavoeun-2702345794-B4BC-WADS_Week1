@@ -6,7 +6,6 @@ ID: 2702345794
 Class: B4BC
 
 Microservice Architecture
-=======
 Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of two or more services that are:
 
     Independently deployable
@@ -24,4 +23,3 @@ For a business to thrive in today’s volatile, uncertain, complex and ambiguous
 To do that for large complex applications you need the success triangle.
 
 ![Alt text](https://microservices.io/i/home-page/home-page-SuccessTriangle_Fast_Flow_Small.png)
->>>>>>> experiment
