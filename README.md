@@ -15,3 +15,5 @@ Microservices enable fast flow
 For a business to thrive in today’s volatile, uncertain, complex and ambiguous world, IT must deliver that software rapidly, frequently and reliably.
 
 To do that for large complex applications you need the success triangle.
+
+![Alt text](https://microservices.io/i/home-page/home-page-SuccessTriangle_Fast_Flow_Small.png)
