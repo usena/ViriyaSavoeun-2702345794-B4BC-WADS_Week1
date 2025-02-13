@@ -27,3 +27,5 @@ To do that for large complex applications you need the success triangle.
 Design microservices using Assemblage
 
 The key challenge when using microservices is designing a good service architecture. If you get it wrong you risk creating a distributed monolith, which will slow down software delivery. Assemblage is an architecture definition process for grouping subdomains/bounded contexts into services.
+
+![Alt text](https://microservices.io/i/home-page/home-page-assemblage.png)
