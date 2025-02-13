@@ -9,3 +9,9 @@ Microservices - also known as the microservice architecture - is an architectura
 Services are typically organized around business capabilities. Each service is often owned by a single, small team.
 
 ![Alt text](https://microservices.io/i/home-page/home-page-microservices-teams-subdomains.png)
+
+Microservices enable fast flow
+
+For a business to thrive in today’s volatile, uncertain, complex and ambiguous world, IT must deliver that software rapidly, frequently and reliably.
+
+To do that for large complex applications you need the success triangle.
