@@ -1,11 +1,13 @@
-What are microservices?
+Microservice Architecture
 
-<<<<<<< HEAD
+Name: Viriya Savoeun
+
 ID: 2702345794
 
 Class: B4BC
 
-Microservice Architecture
+What are microservices?
+
 Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of two or more services that are:
 
     Independently deployable
